@@ -1,0 +1,27 @@
+name: dart_connect_metro
+description: This SDK provides convenient access to information, including
+  real-time updates and schedules, allowing developers to enhance the
+  functionality of their DC Metro-related apps.
+version: 0.1.2
+repository: https://github.com/babincc/dart_connect_metro
+issue_tracker: https://github.com/babincc/dart_connect_metro/issues
+
+topics:
+  - dc-metro
+  - dc-transit
+
+funding:
+  - https://www.buymeacoffee.com/babincc
+  - https://paypal.me/cssbabin
+  - https://venmo.com/u/babincc
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  collection: ^1.18.0
+  http: ^1.2.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.4
