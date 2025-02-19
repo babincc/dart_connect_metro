@@ -1,5 +1,5 @@
 // @author Christian Babin
-// @version 0.1.2
+// @version 0.1.3
 // https://github.com/babincc/dart_connect_metro/blob/master/lib/dart_connect_metro.dart
 
 export 'package:dart_connect_metro/features/bus_predictions/domain/models/next_buses/next_buses.dart';
